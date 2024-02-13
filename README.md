@@ -1,1 +1,1 @@
-Webscraping code for simple data fetching from Ambitipn Box website.
+Webscraping code for simple data fetching from Ambition Box website.
